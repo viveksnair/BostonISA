@@ -1,0 +1,18 @@
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+  background: none; }
+
+input[disabled], button[disabled] {
+    background-color: #eee; }
+
+.intl-tel-input.outside {
+  border: 1px solid #CCC;
+}
+
+.intl-tel-input.outside input[disabled] + .flag-dropdown {
+    background-color: #eee;
+}
